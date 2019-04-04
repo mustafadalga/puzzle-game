@@ -1,0 +1,40 @@
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Asus\Desktop\Programlama_Vize_Calismalari\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+F:\Github C#\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+F:\Github C#\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+F:\Github C#\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+F:\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+F:\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+F:\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+F:\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+F:\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+F:\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+F:\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\userse\Desktop\Github C#\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+F:\son\Puzzle\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+F:\son\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+F:\son\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+F:\son\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+F:\son\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+F:\son\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+F:\son\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+F:\son\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+F:\son\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+F:\son\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
