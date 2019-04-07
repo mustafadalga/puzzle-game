@@ -1,5 +1,5 @@
 # Puzzle
-C# ile kodlanmış puzzle oyunu
+C# ile kodladığım puzzle oyunu
 
 ### Görüntü 1
 ![Capture](https://user-images.githubusercontent.com/25087769/55573278-43cc4880-5712-11e9-889c-818c6451013e.PNG)
